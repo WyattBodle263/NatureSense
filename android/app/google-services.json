@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "635642975537",
+    "firebase_url": "https://animal-plantidentifier-default-rtdb.firebaseio.com",
+    "project_id": "animal-plantidentifier",
+    "storage_bucket": "animal-plantidentifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635642975537:android:c1736653e80a8129768c10",
+        "android_client_info": {
+          "package_name": "com.example.austin_hs_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635642975537-7frgbkj6usf0p05c2kcosire24dt09eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhlGUapZxljbReXOM67OrZiNwxV7_Op0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635642975537-7frgbkj6usf0p05c2kcosire24dt09eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635642975537-dfn11ivhhdcrbq1gnhs2lhbsn72al5kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.austinHsClass"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635642975537:android:70f731a94b2a9d5a768c10",
+        "android_client_info": {
+          "package_name": "com.example.austin_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635642975537-7frgbkj6usf0p05c2kcosire24dt09eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhlGUapZxljbReXOM67OrZiNwxV7_Op0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635642975537-7frgbkj6usf0p05c2kcosire24dt09eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635642975537-dfn11ivhhdcrbq1gnhs2lhbsn72al5kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.austinHsClass"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635642975537:android:600123a6bb968552768c10",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635642975537-7frgbkj6usf0p05c2kcosire24dt09eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhlGUapZxljbReXOM67OrZiNwxV7_Op0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635642975537-7frgbkj6usf0p05c2kcosire24dt09eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635642975537-dfn11ivhhdcrbq1gnhs2lhbsn72al5kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.austinHsClass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1032 @@
+[
+    {
+      "name": "antelope",
+      "description": "Antelopes are herbivorous mammals known for their agility and distinctive horns.",
+      "advice": "Observe antelopes from a safe distance during wildlife viewing.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and savannas",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "badger",
+      "description": "Badgers are carnivorous mammals known for their burrowing habits.",
+      "advice": "Observe badgers from a distance and avoid disturbing their burrows.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various terrestrial habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "bat",
+      "description": "Bats are flying mammals known for their nocturnal behavior and ability to fly.",
+      "advice": "Observe bats at dusk and night in natural habitats.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Insectivore or frugivore"
+    },
+    {
+      "name": "bear",
+      "description": "Bears are large carnivorous mammals known for their strength and hibernation.",
+      "advice": "Avoid encountering wild bears and follow safety guidelines in bear habitats.",
+      "dangerous": "Potentially dangerous",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Forests, mountains, and tundra",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "bee",
+      "description": "Bees are flying insects known for their role in pollination and honey production.",
+      "advice": "Observe bees from a distance and avoid disturbing their nests.",
+      "dangerous": "Potentially dangerous (stinging insects)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Nectar and pollen"
+    },
+    {
+      "name": "beetle",
+      "description": "Beetles are diverse insects known for their hard exoskeleton and varied lifestyles.",
+      "advice": "Observe beetles in natural habitats and avoid handling them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Herbivore or carnivore"
+    },
+    {
+      "name": "bison",
+      "description": "Bisons are large herbivorous mammals known for their strength and social behavior.",
+      "advice": "Observe bison from a safe distance in their natural habitat.",
+      "dangerous": "Potentially dangerous (can be unpredictable)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Grasslands and plains",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "boar",
+      "description": "Boars are wild pigs known for their tusks and foraging behavior.",
+      "advice": "Avoid encountering wild boars and keep a safe distance.",
+      "dangerous": "Potentially dangerous (can be aggressive)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Forests and grasslands",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "butterfly",
+      "description": "Butterflies are colorful insects known for their intricate wing patterns and pollination.",
+      "advice": "Observe butterflies in natural habitats and avoid handling them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Nectar"
+    },
+    {
+      "name": "cat",
+      "description": "Cats are domesticated carnivorous mammals known for their companionship with humans.",
+      "advice": "Interact with cats responsibly and provide proper care as pets.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Human households",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "caterpillar",
+      "description": "Caterpillars are the larval stage of insects, often known for their distinctive appearance.",
+      "advice": "Observe caterpillars in natural habitats and avoid handling them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "chimpanzee",
+      "description": "Chimpanzees are highly intelligent primates known for their social behavior and tool use.",
+      "advice": "Observe chimpanzees from a safe distance and follow guidelines for primate viewing.",
+      "dangerous": "Potentially dangerous (can be aggressive)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Rainforests and woodlands",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "cockroach",
+      "description": "Cockroaches are insects known for their adaptability and scavenging behavior.",
+      "advice": "Manage cockroach infestations in living spaces and avoid handling them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Scavenger"
+    },
+    {
+      "name": "cow",
+      "description": "Cows are domesticated herbivorous mammals raised for their milk and meat.",
+      "advice": "Interact with cows on farms and follow guidelines for handling livestock.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "coyote",
+      "description": "Coyotes are adaptable carnivorous mammals known for their howling calls.",
+      "advice": "Observe coyotes from a distance and avoid interactions with wild coyotes.",
+      "dangerous": "Potentially dangerous (can be aggressive)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "crab",
+      "description": "Crabs are crustaceans known for their sideways walking and aquatic lifestyles.",
+      "advice": "Observe crabs in coastal habitats and avoid handling them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and oceans",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "crow",
+      "description": "Crows are intelligent birds known for their problem-solving abilities and cawing calls.",
+      "advice": "Observe crows in urban and natural habitats and appreciate their behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "deer",
+      "description": "Deers are herbivorous mammals known for their graceful appearance and antlers (in males).",
+      "advice": "Observe deer from a distance and avoid interactions, especially during mating season.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "dog",
+      "description": "Dogs are domesticated mammals known for their loyalty and companionship with humans.",
+      "advice": "Interact with dogs responsibly, provide proper care as pets, and respect other dog owners.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Human households",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "dolphin",
+      "description": "Dolphins are intelligent marine mammals known for their playful behavior and communication.",
+      "advice": "Observe dolphins in their natural habitat and respect marine life conservation guidelines.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Oceans and seas",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "donkey",
+      "description": "Donkeys are domesticated mammals known for their role as working animals and companions.",
+      "advice": "Interact with donkeys responsibly and provide proper care as working animals or pets.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Human households and farms",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "dragonfly",
+      "description": "Dragonflies are flying insects known for their large eyes and impressive flying abilities.",
+      "advice": "Observe dragonflies near freshwater habitats and appreciate their aerial acrobatics.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Freshwater habitats",
+      "diet": "Predator (insects)"
+    },
+    {
+      "name": "duck",
+      "description": "Ducks are waterfowl known for their quacking calls and aquatic lifestyles.",
+      "advice": "Observe ducks in wetland habitats and respect their natural behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Wetlands and water bodies",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "eagle",
+      "description": "Eagles are large birds of prey known for their keen eyesight and powerful talons.",
+      "advice": "Observe eagles from a distance and appreciate their hunting behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "elephant",
+      "description": "Elephants are large herbivorous mammals known for their intelligence and social behavior.",
+      "advice": "Observe elephants from a safe distance and support elephant conservation efforts.",
+      "dangerous": "Potentially dangerous (can be unpredictable)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Forests and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "flamingo",
+      "description": "Flamingos are wading birds known for their long legs and distinctive pink plumage.",
+      "advice": "Observe flamingos in wetland habitats and appreciate their unique appearance.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Wetlands and lagoons",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "fly",
+      "description": "Flies are insects known for their short lifespan and important role in ecosystems.",
+      "advice": "Observe flies in various habitats and appreciate their ecological significance.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Scavenger or bloodsucker"
+    },
+    {
+      "name": "fox",
+      "description": "Foxes are small to medium-sized carnivorous mammals known for their cunning behavior.",
+      "advice": "Observe foxes from a distance and avoid feeding or approaching them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "goat",
+      "description": "Goats are domesticated mammals known for their grazing behavior and diverse uses.",
+      "advice": "Interact with goats on farms and provide proper care as livestock.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "goldfish",
+      "description": "Goldfish are freshwater fish known for their bright colors and popularity as aquarium pets.",
+      "advice": "Keep goldfish responsibly in well-maintained aquariums and avoid releasing them into the wild.",
+      "dangerous": "Not dangerous (aquarium fish)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Aquariums and ponds",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "goose",
+      "description": "Geese are waterfowl known for their honking calls and migratory behavior.",
+      "advice": "Observe geese in wetland habitats and respect their nesting areas.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Wetlands and water bodies",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "gorilla",
+      "description": "Gorillas are large primates known for their strength and close-knit social groups.",
+      "advice": "Observe gorillas in their natural habitat and follow guidelines for primate viewing.",
+      "dangerous": "Potentially dangerous (can be unpredictable)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Rainforests and woodlands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "grasshopper",
+      "description": "Grasshoppers are hopping insects known for their role in plant consumption and sound production.",
+      "advice": "Observe grasshoppers in various habitats and appreciate their ecological role.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and gardens",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "hamster",
+      "description": "Hamsters are small rodents known for their cheek pouches and burrowing behavior.",
+      "advice": "Keep hamsters responsibly as pets and provide appropriate care.",
+      "dangerous": "Not dangerous (pet)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Human households",
+      "diet": "Herbivore or omnivore"
+    },
+    {
+      "name": "hare",
+      "description": "Hares are fast-running mammals known for their long ears and powerful hind legs.",
+      "advice": "Observe hares in grasslands and open areas, especially during their active periods.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and open areas",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "hedgehog",
+      "description": "Hedgehogs are spiky mammals known for their nocturnal habits and insectivorous diet.",
+      "advice": "Observe hedgehogs at dusk and night in natural habitats.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Gardens and woodlands",
+      "diet": "Insectivore"
+    },
+    {
+      "name": "hippopotamus",
+      "description": "Hippopotamuses are large semi-aquatic mammals known for their size and territorial behavior.",
+      "advice": "Observe hippos from a safe distance during wildlife viewing and respect their habitat.",
+      "dangerous": "Potentially dangerous (highly territorial and unpredictable)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Rivers and lakes",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "hornbill",
+      "description": "Hornbills are birds known for their unique bills and distinctive vocalizations.",
+      "advice": "Observe hornbills in their natural habitat and appreciate their behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Tropical forests",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "horse",
+      "description": "Horses are domesticated mammals known for their role in transportation, sport, and agriculture.",
+      "advice": "Interact with horses responsibly and provide proper care as livestock or companion animals.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "hummingbird",
+      "description": "Hummingbirds are small birds known for their rapid wingbeats and ability to hover.",
+      "advice": "Observe hummingbirds near flowers and feeders in their natural habitats.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Nectar and insects"
+    },
+    {
+      "name": "hyena",
+      "description": "Hyenas are carnivorous mammals known for their scavenging behavior and distinctive calls.",
+      "advice": "Observe hyenas from a distance during wildlife viewing and avoid interactions.",
+      "dangerous": "Potentially dangerous (can be aggressive)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "jellyfish",
+      "description": "Jellyfish are aquatic creatures known for their gelatinous bodies and stinging tentacles.",
+      "advice": "Observe jellyfish in the ocean and avoid touching them to prevent stings.",
+      "dangerous": "Potentially dangerous (stinging organisms)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Oceans and seas",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "kangaroo",
+      "description": "Kangaroos are marsupial mammals known for their powerful hind legs and hopping behavior.",
+      "advice": "Observe kangaroos from a distance in their natural habitat.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and woodlands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "koala",
+      "description": "Koalas are marsupial mammals known for their tree-dwelling habits and eucalyptus diet.",
+      "advice": "Observe koalas in their natural habitat and respect their need for undisturbed trees.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Eucalyptus forests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "ladybugs",
+      "description": "Ladybugs are small beetles known for their spotted appearance and role in pest control.",
+      "advice": "Observe ladybugs in gardens and natural habitats and appreciate their ecological role.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Gardens and grasslands",
+      "diet": "Predator (aphids)"
+    },
+    {
+      "name": "leopard",
+      "description": "Leopards are large carnivorous mammals known for their powerful build and distinctive coat.",
+      "advice": "Observe leopards from a safe distance during wildlife viewing.",
+      "dangerous": "Potentially dangerous (strong predator)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Forests, grasslands, and mountains",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "lion",
+      "description": "Lions are social big cats known for their majestic appearance and group behavior.",
+      "advice": "Observe lions from a safe distance during wildlife viewing and respect their habitat.",
+      "dangerous": "Potentially dangerous (apex predator)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Grasslands and savannas",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "lizard",
+      "description": "Lizards are reptiles known for their diverse appearances and ability to regenerate lost tails.",
+      "advice": "Observe lizards in various habitats and avoid disturbing their natural behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore or herbivore"
+    },
+    {
+      "name": "lobster",
+      "description": "Lobsters are marine crustaceans known for their large claws and culinary value.",
+      "advice": "Observe lobsters in underwater habitats and respect fishing regulations.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and oceans",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "mosquito",
+      "description": "Mosquitoes are flying insects known for their role in disease transmission and irritating bites.",
+      "advice": "Use mosquito repellents and protective clothing to prevent bites.",
+      "dangerous": "Potentially dangerous (vector of diseases)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Bloodsucker"
+    },
+    {
+      "name": "moth",
+      "description": "Moths are nocturnal insects known for their diverse appearances and attraction to light.",
+      "advice": "Observe moths at night in various habitats and appreciate their ecological role.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "mouse",
+      "description": "Mice are small rodents known for their rapid reproduction and ability to squeeze through small openings.",
+      "advice": "Manage mouse infestations in living spaces and keep areas clean.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "octopus",
+      "description": "Octopuses are marine animals known for their intelligence and camouflage abilities.",
+      "advice": "Observe octopuses in underwater habitats and respect marine life conservation guidelines.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Oceans and seas",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "okapi",
+      "description": "Okapis are forest-dwelling mammals known for their striped appearance and reclusive behavior.",
+      "advice": "Observe okapis from a safe distance in their rainforest habitat.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Rainforests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "orangutan",
+      "description": "Orangutans are great apes known for their intelligence and tree-dwelling habits.",
+      "advice": "Observe orangutans from a safe distance and follow guidelines for primate viewing.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Rainforests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "otter",
+      "description": "Otters are aquatic mammals known for their playful behavior and streamlined bodies.",
+      "advice": "Observe otters in aquatic habitats and respect their need for clean water.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Rivers, lakes, and coastal areas",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "owl",
+      "description": "Owls are nocturnal birds of prey known for their silent flight and hunting abilities.",
+      "advice": "Observe owls at dusk and night and appreciate their hunting behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "ox",
+      "description": "Oxen are domesticated cattle used for plowing and carrying loads.",
+      "advice": "Interact with oxen responsibly and provide proper care as working animals.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "oyster",
+      "description": "Oysters are bivalve mollusks known for their shellfish and filtration abilities.",
+      "advice": "Harvest oysters sustainably and respect marine ecosystem health.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and estuaries",
+      "diet": "Filter feeder"
+    },
+    {
+      "name": "panda",
+      "description": "Pandas are bears known for their distinctive black and white coat and bamboo diet.",
+      "advice": "Observe pandas from a safe distance and support panda conservation efforts.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Bamboo forests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "parrot",
+      "description": "Parrots are colorful birds known for their ability to mimic human speech and vibrant plumage.",
+      "advice": "Observe parrots in their natural habitat and support efforts to combat illegal pet trade.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Tropical forests and savannas",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "pelecaniformes",
+      "description": "Pelecaniformes are a group of aquatic birds including pelicans, herons, and ibises.",
+      "advice": "Observe pelecaniformes in wetland habitats and appreciate their diverse behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Wetlands and water bodies",
+      "diet": "Various (e.g., fish, crustaceans)"
+    },
+    {
+      "name": "penguin",
+      "description": "Penguins are flightless birds known for their tuxedo-like appearance and swimming abilities.",
+      "advice": "Observe penguins in their natural habitat and respect their unique adaptations.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Antarctica and various islands",
+      "diet": "Carnivore (mostly fish)"
+    },
+    {
+      "name": "pig",
+      "description": "Pigs are domesticated mammals raised for their meat and various products.",
+      "advice": "Interact with pigs on farms and provide proper care as livestock.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and grasslands",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "pigeon",
+      "description": "Pigeons are birds known for their urban presence and cooing calls.",
+      "advice": "Observe pigeons in urban areas and appreciate their interactions.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Urban areas",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "porcupine",
+      "description": "Porcupines are rodents known for their sharp quills and nocturnal behavior.",
+      "advice": "Observe porcupines at dusk and night in natural habitats.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "possum",
+      "description": "Possums are marsupial mammals known for their prehensile tails and nocturnal habits.",
+      "advice": "Observe possums at dusk and night in natural habitats.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests and urban areas",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "raccoon",
+      "description": "Raccoons are intelligent mammals known for their masked appearance and adaptability.",
+      "advice": "Observe raccoons from a distance and avoid feeding them.",
+      "dangerous": "Not dangerous (can carry diseases)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests and urban areas",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "rat",
+      "description": "Rats are rodents known for their rapid reproduction and scavenging behavior.",
+      "advice": "Manage rat infestations in living spaces and keep areas clean.",
+      "dangerous": "Not dangerous (can carry diseases)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "reindeer",
+      "description": "Reindeer are large herbivorous mammals known for their importance in Arctic cultures.",
+      "advice": "Observe reindeer from a distance in their Arctic habitat and support indigenous practices.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Tundra and Arctic regions",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "rhinoceros",
+      "description": "Rhinoceroses (rhinos) are large herbivorous mammals known for their horn and powerful build.",
+      "advice": "Observe rhinos from a safe distance during wildlife viewing and support conservation efforts.",
+      "dangerous": "Potentially dangerous (can be unpredictable)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Grasslands and savannas",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "rooster",
+      "description": "Roosters are male chickens known for their crowing calls and colorful plumage.",
+      "advice": "Interact with roosters responsibly on farms and respect noise regulations.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and rural areas",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "salamander",
+      "description": "Salamanders are amphibians known for their slender bodies and habitat diversity.",
+      "advice": "Observe salamanders in moist habitats and avoid disturbing their habitats.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests, wetlands, and streams",
+      "diet": "Carnivore or insectivore"
+    },
+    {
+      "name": "scorpion",
+      "description": "Scorpions are arachnids known for their venomous stings and nocturnal behavior.",
+      "advice": "Observe scorpions from a distance and avoid handling them.",
+      "dangerous": "Potentially dangerous (venomous)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Deserts and various terrestrial habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "seagull",
+      "description": "Seagulls are birds known for their presence near coastlines and scavenging behavior.",
+      "advice": "Observe seagulls in coastal habitats and avoid feeding them.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and oceans",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "seahorse",
+      "description": "Seahorses are marine fish known for their upright posture and unique method of reproduction.",
+      "advice": "Observe seahorses in underwater habitats and support marine life conservation.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coral reefs and seagrass beds",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "seal",
+      "description": "Seals are marine mammals known for their streamlined bodies and swimming abilities.",
+      "advice": "Observe seals in coastal habitats and respect marine life conservation guidelines.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and oceans",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "shark",
+      "description": "Sharks are cartilaginous fish known for their powerful jaws and role in marine ecosystems.",
+      "advice": "Observe sharks from a distance and respect marine life conservation efforts.",
+      "dangerous": "Potentially dangerous (some species are dangerous to humans)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Oceans and seas",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "sheep",
+      "description": "Sheep are domesticated mammals known for their wool and meat.",
+      "advice": "Interact with sheep on farms and provide proper care as livestock.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Farms and grasslands",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "shrimp",
+      "description": "Shrimp are small crustaceans known for their culinary value and wide distribution.",
+      "advice": "Harvest shrimp sustainably and respect marine ecosystem health.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and oceans",
+      "diet": "Detritivore"
+    },
+    {
+      "name": "skunk",
+      "description": "Skunks are mammals known for their distinctive black and white coloration and defensive spray.",
+      "advice": "Observe skunks from a distance and avoid startling them.",
+      "dangerous": "Not dangerous (can emit strong odor)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests and urban areas",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "sloth",
+      "description": "Sloths are arboreal mammals known for their slow movement and unique lifestyle.",
+      "advice": "Observe sloths from a distance in their rainforest habitat and support conservation efforts.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Rainforests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "snail",
+      "description": "Snails are mollusks known for their spiral shells and slow movement.",
+      "advice": "Observe snails in various habitats and appreciate their unique adaptations.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests, gardens, and water bodies",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "snake",
+      "description": "Snakes are legless reptiles known for their diverse appearances and hunting methods.",
+      "advice": "Observe snakes from a safe distance and avoid provoking them.",
+      "dangerous": "Potentially dangerous (venomous species) or not dangerous (non-venomous species)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "spider",
+      "description": "Spiders are arachnids known for their silk production and role in insect control.",
+      "advice": "Observe spiders in various habitats and appreciate their ecological role.",
+      "dangerous": "Potentially dangerous (some species are venomous)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "squirrel",
+      "description": "Squirrels are rodents known for their agility and habit of storing food.",
+      "advice": "Observe squirrels in various habitats and appreciate their energetic behavior.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests, urban areas, and gardens",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "starfish",
+      "description": "Starfish are marine echinoderms known for their radial symmetry and ability to regenerate arms.",
+      "advice": "Observe starfish in underwater habitats and respect marine life conservation guidelines.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Coastal areas and oceans",
+      "diet": "Carnivore (predator of shellfish)"
+    },
+    {
+      "name": "stork",
+      "description": "Storks are large wading birds known for their distinctive beaks and nesting behaviors.",
+      "advice": "Observe storks in wetland habitats and respect their nesting areas.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Wetlands and water bodies",
+      "diet": "Carnivore or omnivore"
+    },
+    {
+      "name": "swan",
+      "description": "Swans are waterfowl known for their graceful appearance and presence in lakes and rivers.",
+      "advice": "Observe swans in wetland habitats and respect their natural behaviors.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Wetlands, lakes, and rivers",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "tarantula",
+      "description": "Tarantulas are large spiders known for their size and often hairy appearance.",
+      "advice": "Observe tarantulas from a safe distance and avoid provoking them.",
+      "dangerous": "Potentially dangerous (venomous species)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various terrestrial habitats",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "tiger",
+      "description": "Tigers are large carnivorous mammals known for their strength and distinctive coat.",
+      "advice": "Observe tigers from a safe distance during wildlife viewing and support conservation efforts.",
+      "dangerous": "Potentially dangerous (apex predator)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Forests and grasslands",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "toucan",
+      "description": "Toucans are birds known for their large and colorful bills.",
+      "advice": "Observe toucans in their natural habitat and appreciate their unique appearance.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Tropical forests",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "turkey",
+      "description": "Turkeys are birds known for their role as domesticated poultry and wild game.",
+      "advice": "Interact with turkeys responsibly and support ethical farming practices.",
+      "dangerous": "Not dangerous (domesticated), potentially dangerous (wild males during mating season)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Omnivore"
+    },
+    {
+      "name": "turtle",
+      "description": "Turtles are reptiles known for their protective shells and aquatic or terrestrial lifestyles.",
+      "advice": "Observe turtles in various habitats and respect their need for protection.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Aquatic and terrestrial habitats",
+      "diet": "Herbivore or carnivore"
+    },
+    {
+      "name": "vulture",
+      "description": "Vultures are scavenging birds of prey known for their bald heads and soaring flights.",
+      "advice": "Observe vultures in various habitats and appreciate their ecological role.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Various habitats",
+      "diet": "Carnivore (scavenger)"
+    },
+    {
+      "name": "wallaby",
+      "description": "Wallabies are marsupial mammals similar to kangaroos but smaller in size.",
+      "advice": "Observe wallabies from a distance in their natural habitat.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and forests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "walrus",
+      "description": "Walruses are marine mammals known for their tusks and social behaviors.",
+      "advice": "Observe walruses from a safe distance and respect marine life conservation guidelines.",
+      "dangerous": "Not dangerous (can be unpredictable and territorial)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Arctic and subarctic regions",
+      "diet": "Carnivore (predator of benthic invertebrates)"
+    },
+    {
+      "name": "whale",
+      "description": "Whales are marine mammals known for their large size and distinctive behaviors.",
+      "advice": "Observe whales from a safe distance during marine excursions and support marine conservation.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Oceans and seas",
+      "diet": "Carnivore (predator of marine organisms)"
+    },
+    {
+      "name": "wolf",
+      "description": "Wolves are carnivorous mammals known for their pack structure and howling calls.",
+      "advice": "Observe wolves from a safe distance during wildlife viewing and support conservation efforts.",
+      "dangerous": "Potentially dangerous (wild animals with predatory behavior)",
+      "risky": true,
+      "invasive": false,
+      "habitat": "Forests, grasslands, and tundra",
+      "diet": "Carnivore"
+    },
+    {
+      "name": "wombat",
+      "description": "Wombats are marsupial mammals known for their burrowing habits and sturdy build.",
+      "advice": "Observe wombats from a distance and avoid disturbing their burrows.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and forests",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "woodpecker",
+      "description": "Woodpeckers are birds known for their drumming behavior on trees and strong beaks.",
+      "advice": "Observe woodpeckers in various habitats and appreciate their ecological role.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Forests and woodlands",
+      "diet": "Carnivore (insects)"
+    },
+    {
+      "name": "yak",
+      "description": "Yaks are bovine mammals known for their sturdy build and domestication in mountainous regions.",
+      "advice": "Interact with yaks responsibly and support the traditional cultures of yak herders.",
+      "dangerous": "Not dangerous (domesticated)",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Mountainous regions",
+      "diet": "Herbivore"
+    },
+    {
+      "name": "zebra",
+      "description": "Zebras are equine mammals known for their black and white stripes.",
+      "advice": "Observe zebras from a safe distance during wildlife viewing and support conservation efforts.",
+      "dangerous": "Not dangerous",
+      "risky": false,
+      "invasive": false,
+      "habitat": "Grasslands and savannas",
+      "diet": "Herbivore"
+    }
+]

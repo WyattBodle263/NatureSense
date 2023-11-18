@@ -1,0 +1,1343 @@
+[
+  {
+    "name": "aeoniums",
+    "description": "Aeoniums are succulent plants known for their rosette-shaped leaves and variety of colors.",
+    "advice": "Grow aeoniums in well-draining soil and provide adequate sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Aeoniums are valued for their ornamental appearance and drought tolerance.",
+    "other_information": "Native to the Canary Islands and North Africa."
+  },
+  {
+    "name": "agaves",
+    "description": "Agaves are succulent plants known for their rosette-shaped leaves and sharp spines.",
+    "advice": "Plant agaves in well-draining soil and be cautious of their spines.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Agaves are drought-tolerant and used for landscaping and tequila production.",
+    "other_information": "Native to the Americas."
+  },
+  {
+    "name": "aloes",
+    "description": "Aloes are succulent plants known for their medicinal gel and unique leaf shapes.",
+    "advice": "Grow aloes in well-draining soil and harvest their gel for various uses.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Aloes are used for their healing properties and ornamental value.",
+    "other_information": "Native to Africa and the Arabian Peninsula."
+  },
+  {
+    "name": "apples",
+    "description": "Apples are fruit-bearing trees known for their crisp and sweet fruits.",
+    "advice": "Plant apple trees in fertile soil and provide proper care for healthy fruit production.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Apples are nutritious and commonly consumed as fresh fruit or in various dishes.",
+    "other_information": "Cultivated in various regions around the world."
+  },
+  {
+    "name": "apricots",
+    "description": "Apricots are fruit-bearing trees known for their small, sweet, and orange fruits.",
+    "advice": "Plant apricot trees in well-draining soil and protect blossoms from late frost.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Apricots are rich in vitamins and antioxidants, often eaten fresh or dried.",
+    "other_information": "Cultivated in temperate regions."
+  },
+  {
+    "name": "arborvitaes",
+    "description": "Arborvitaes are evergreen trees or shrubs known for their dense foliage and conical shape.",
+    "advice": "Plant arborvitaes in well-draining soil and provide regular watering.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Arborvitaes are used for privacy screens, hedges, and ornamental purposes.",
+    "other_information": "Native to North America and Asia."
+  },
+  {
+    "name": "artichokes",
+    "description": "Artichokes are edible thistle-like plants known for their edible flower buds.",
+    "advice": "Grow artichokes in well-draining soil and harvest flower buds before they open.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Artichokes are nutritious and commonly used in cooking.",
+    "other_information": "Cultivated for culinary purposes."
+  },
+  {
+    "name": "asparagus",
+    "description": "Asparagus is a perennial vegetable known for its tender shoots.",
+    "advice": "Plant asparagus crowns in well-prepared soil and harvest shoots as they emerge.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Asparagus is a low-calorie vegetable rich in vitamins and minerals.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "asters",
+    "description": "Asters are flowering plants known for their daisy-like blooms and variety of colors.",
+    "advice": "Plant asters in well-draining soil and provide adequate sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Asters are popular in gardens and attract pollinators.",
+    "other_information": "Native to North America and Eurasia."
+  },
+  {
+    "name": "astilbe",
+    "description": "Astilbe is a perennial flower known for its feathery plumes and shade tolerance.",
+    "advice": "Plant astilbe in moist soil and provide shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Astilbe adds texture and color to shade gardens and woodland areas.",
+    "other_information": "Native to Asia and North America."
+  },
+  {
+    "name": "babysbreath",
+    "description": "Baby's breath is a delicate flowering plant known for its small white or pink blooms.",
+    "advice": "Plant baby's breath in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Baby's breath is often used as a filler in floral arrangements.",
+    "other_information": "Native to Europe, Asia, and Africa."
+  },
+  {
+    "name": "baptisia",
+    "description": "Baptisia is a perennial plant known for its pea-like flowers and drought tolerance.",
+    "advice": "Plant baptisia in well-draining soil and provide full sun.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Baptisia is a nitrogen-fixing plant that adds beauty to gardens.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "basil",
+    "description": "Basil is an aromatic herb known for its flavorful leaves and culinary uses.",
+    "advice": "Grow basil in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Basil is a staple in many cuisines and has potential health benefits.",
+    "other_information": "Cultivated worldwide for culinary and medicinal use."
+  },
+  {
+    "name": "beans",
+    "description": "Beans are leguminous plants known for their edible pods or seeds.",
+    "advice": "Plant beans in well-draining soil and provide support for climbing varieties.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Beans are a good source of protein, fiber, and nutrients.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "beautyberries",
+    "description": "Beautyberries are shrubs known for their clusters of colorful and edible berries.",
+    "advice": "Grow beautyberries in well-draining soil and enjoy the ornamental and culinary value.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Beautyberries are used in landscaping and can be made into jams and jellies.",
+    "other_information": "Native to the Americas."
+  },
+  {
+    "name": "beebalms",
+    "description": "Beebalms are flowering plants known for their vibrant blooms and attraction to pollinators.",
+    "advice": "Plant beebalms in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Beebalms support pollinators and add color to gardens.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "beets",
+    "description": "Beets are root vegetables known for their edible roots and leaves.",
+    "advice": "Plant beets in well-draining soil and provide consistent moisture.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Beets are rich in vitamins, minerals, and antioxidants.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "bellflowers",
+    "description": "Bellflowers are flowering plants known for their bell-shaped blooms.",
+    "advice": "Plant bellflowers in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Bellflowers add beauty and charm to gardens.",
+    "other_information": "Native to Europe and Asia."
+  },
+  {
+    "name": "black-eyed-susans",
+    "description": "Black-eyed Susans are flowering plants known for their bright yellow petals and dark centers.",
+    "advice": "Plant black-eyed Susans in well-draining soil and enjoy their cheerful blooms.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Black-eyed Susans attract pollinators and add color to landscapes.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "blanketflowers",
+    "description": "Blanketflowers are flowering plants known for their vibrant and daisy-like blooms.",
+    "advice": "Plant blanketflowers in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Blanketflowers are drought-tolerant and attract pollinators.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "bleeding-hearts",
+    "description": "Bleeding hearts are perennial flowers known for their unique heart-shaped blooms.",
+    "advice": "Plant bleeding hearts in well-draining soil and provide shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Bleeding hearts add romance and charm to gardens.",
+    "other_information": "Native to Asia and North America."
+  },
+  {
+    "name": "brassicas",
+    "description": "Brassicas are a group of vegetables known for their diverse forms and flavors.",
+    "advice": "Plant brassicas in well-draining soil and protect against pests.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Brassicas are nutrient-rich and include cabbage, kale, broccoli, and more.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "butterflybushes",
+    "description": "Butterfly bushes are shrubs known for their fragrant blooms and attraction to butterflies.",
+    "advice": "Plant butterfly bushes in well-draining soil and enjoy their colorful flowers.",
+    "poison": false,
+    "risky": false,
+    "invasive": true,
+    "benefits": "Butterfly bushes attract pollinators and add beauty to landscapes.",
+    "other_information": "Invasive in some regions."
+  },
+  {
+    "name": "butterworts",
+    "description": "Butterworts are carnivorous plants known for their sticky leaves that trap insects.",
+    "advice": "Grow butterworts in well-draining soil and provide adequate light.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Butterworts help control insect populations and are fascinating to observe.",
+    "other_information": "Native to North and South America."
+  },
+  {
+    "name": "caladiums",
+    "description": "Caladiums are tropical plants known for their colorful and heart-shaped leaves.",
+    "advice": "Plant caladiums in well-draining soil and provide shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Caladiums are valued for their ornamental foliage.",
+    "other_information": "Native to South America."
+  },
+  {
+    "name": "cannas",
+    "description": "Cannas are tropical plants known for their bold and vibrant flowers.",
+    "advice": "Plant cannas in well-draining soil and provide ample sunlight and water.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Cannas add a tropical flair to gardens and attract pollinators.",
+    "other_information": "Native to the Americas and Asia."
+  },
+  {
+    "name": "cantaloupes",
+    "description": "Cantaloupes are melons known for their sweet and aromatic fruits.",
+    "advice": "Plant cantaloupes in well-draining soil and provide warm conditions.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Cantaloupes are hydrating and rich in vitamins.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "carrots",
+    "description": "Carrots are root vegetables known for their sweet and crunchy roots.",
+    "advice": "Plant carrots in loose, well-draining soil and provide consistent moisture.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Carrots are rich in beta-carotene and a versatile ingredient in cooking.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "catmints",
+    "description": "Catmints are aromatic plants known for their pleasant scent and attraction to cats.",
+    "advice": "Plant catmints in well-draining soil and enjoy their fragrance and pollinator activity.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Catmints are used in herbal remedies and can be enjoyed by gardeners and cats.",
+    "other_information": "Native to Europe and Asia."
+  },
+  {
+    "name": "celery",
+    "description": "Celery is a vegetable known for its crisp stalks and distinctive flavor.",
+    "advice": "Plant celery in fertile soil and provide consistent moisture.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Celery is low in calories and a source of vitamins and minerals.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "cherries",
+    "description": "Cherries are fruit-bearing trees known for their sweet and juicy fruits.",
+    "advice": "Plant cherry trees in well-draining soil and provide adequate sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Cherries are rich in antioxidants and often eaten fresh or used in desserts.",
+    "other_information": "Cultivated in various regions around the world."
+  },
+  {
+    "name": "chives",
+    "description": "Chives are aromatic herbs known for their slender leaves and mild onion flavor.",
+    "advice": "Grow chives in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Chives are used to add flavor to dishes and have potential health benefits.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "chlorophytums",
+    "description": "Chlorophytums, or spider plants, are houseplants known for their arching foliage and air-purifying qualities.",
+    "advice": "Grow spider plants in well-draining soil and provide indirect sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Spider plants are easy to care for and improve indoor air quality.",
+    "other_information": "Native to South Africa."
+  },
+  {
+    "name": "cilantro",
+    "description": "Cilantro is an herb known for its pungent leaves that are commonly used in cooking.",
+    "advice": "Grow cilantro in well-draining soil and provide partial shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Cilantro adds flavor to a variety of dishes and has potential health benefits.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "citrus",
+    "description": "Citrus trees are fruit-bearing trees known for their juicy and tangy fruits.",
+    "advice": "Plant citrus trees in well-draining soil and provide plenty of sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Citrus fruits are high in vitamin C and used in beverages, cooking, and more.",
+    "other_information": "Cultivated in subtropical and tropical regions."
+  },
+  {
+    "name": "columbines",
+    "description": "Columbines are perennial flowers known for their unique spurred petals and variety of colors.",
+    "advice": "Plant columbines in well-draining soil and provide partial shade.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Columbines attract pollinators and add charm to shaded areas.",
+    "other_information": "Native to North America and Europe."
+  },
+  {
+    "name": "coneflowers",
+    "description": "Coneflowers are flowering plants known for their distinctive cone-shaped centers and daisy-like blooms.",
+    "advice": "Plant coneflowers in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Coneflowers are pollinator-friendly and add color to gardens.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "coralbells",
+    "description": "Coralbells, or heucheras, are perennial plants known for their colorful foliage and delicate blooms.",
+    "advice": "Plant coralbells in well-draining soil and provide partial shade.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Coralbells add texture and color to gardens and are suitable for containers.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "corn",
+    "description": "Corn is a cereal crop known for its tall stalks and edible kernels.",
+    "advice": "Plant corn in well-draining soil and provide sufficient space for pollination.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Corn is a staple food in many cultures and used in various dishes.",
+    "other_information": "Cultivated for culinary and industrial use."
+  },
+  {
+    "name": "crepe-myrtles",
+    "description": "Crepe myrtles are flowering trees or shrubs known for their colorful and crepe-like blooms.",
+    "advice": "Plant crepe myrtles in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Crepe myrtles add beauty to landscapes and thrive in warm climates.",
+    "other_information": "Native to Asia and Australia."
+  },
+  {
+    "name": "crinums",
+    "description": "Crinums are flowering plants known for their large and fragrant blooms.",
+    "advice": "Plant crinums in well-draining soil and provide ample sunlight and water.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Crinums add elegance to gardens and attract pollinators.",
+    "other_information": "Native to Africa and the Americas."
+  },
+  {
+    "name": "crocus",
+    "description": "Crocus is a bulbous plant known for its early spring flowers.",
+    "advice": "Plant crocus bulbs in well-draining soil and enjoy their early blooms.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Crocus signals the arrival of spring and adds color to gardens.",
+    "other_information": "Native to Europe and Asia."
+  },
+  {
+    "name": "cucumbers",
+    "description": "Cucumbers are climbing plants known for their crisp and watery fruits.",
+    "advice": "Plant cucumbers in well-draining soil and provide support for climbing varieties.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Cucumbers are low in calories and a refreshing addition to salads and dishes.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "cucurbits",
+    "description": "Cucurbits are a group of plants including cucumbers, melons, squashes, and pumpkins.",
+    "advice": "Plant cucurbits in well-draining soil and provide ample space for growth.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Cucurbits include a variety of nutritious and versatile fruits and vegetables.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "daffodils",
+    "description": "Daffodils are bulbous plants known for their trumpet-shaped flowers and early spring blooms.",
+    "advice": "Plant daffodil bulbs in well-draining soil and enjoy their cheerful blooms.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Daffodils symbolize renewal and add charm to spring gardens.",
+    "other_information": "Native to Europe and North Africa."
+  },
+  {
+    "name": "dahlias",
+    "description": "Dahlias are flowering plants known for their intricate and colorful blooms.",
+    "advice": "Plant dahlias in well-draining soil and provide support for taller varieties.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Dahlias are popular in floral arrangements and add beauty to gardens.",
+    "other_information": "Native to Central America and Mexico."
+  },
+  {
+    "name": "daylilies",
+    "description": "Daylilies are perennial flowers known for their vibrant and trumpet-shaped blooms.",
+    "advice": "Plant daylilies in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Daylilies are easy to grow and provide color to gardens.",
+    "other_information": "Native to Asia."
+  },
+  {
+    "name": "deadnettles",
+    "description": "Deadnettles are ground-covering plants known for their colorful foliage and low maintenance.",
+    "advice": "Plant deadnettles in well-draining soil and provide shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Deadnettles add texture and color to shaded areas and attract pollinators.",
+    "other_information": "Native to Europe and Asia."
+  },
+  {
+    "name": "delphiniums",
+    "description": "Delphiniums are flowering plants known for their tall spikes of vibrant blooms.",
+    "advice": "Plant delphiniums in well-draining soil and provide support for their tall growth.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Delphiniums add vertical interest and color to gardens.",
+    "other_information": "Native to Northern Hemisphere regions."
+  },
+  {
+    "name": "dianthus",
+    "description": "Dianthus, or carnations, are flowering plants known for their fragrant and ruffled blooms.",
+    "advice": "Plant dianthus in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Dianthus are popular in cut flower arrangements and add charm to gardens.",
+    "other_information": "Native to Europe and Asia."
+  },
+  {
+    "name": "dill",
+    "description": "Dill is an aromatic herb known for its feathery leaves and culinary uses.",
+    "advice": "Grow dill in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Dill adds flavor to dishes and is used as a garnish and in pickling.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "dogwoods",
+    "description": "Dogwoods are flowering trees or shrubs known for their colorful bracts and ornamental value.",
+    "advice": "Plant dogwoods in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Dogwoods add beauty to landscapes and are valued for their spring blooms.",
+    "other_information": "Native to temperate and subtropical regions."
+  },
+  {
+    "name": "dudleyas",
+    "description": "Dudleyas are succulent plants known for their rosette-shaped leaves and tolerance to dry conditions.",
+    "advice": "Grow dudleyas in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Dudleyas are drought-tolerant and add texture to succulent gardens.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "echeverias",
+    "description": "Echeverias are succulent plants known for their rosette-shaped leaves and striking colors.",
+    "advice": "Grow echeverias in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Echeverias are popular in succulent arrangements and add beauty to gardens.",
+    "other_information": "Native to the Americas."
+  },
+  {
+    "name": "eggplants",
+    "description": "Eggplants are fruit-bearing plants known for their glossy and versatile fruits.",
+    "advice": "Plant eggplants in well-draining soil and provide warmth.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Eggplants are rich in vitamins and antioxidants and used in various cuisines.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "figs",
+    "description": "Figs are fruit-bearing trees known for their sweet and succulent fruits.",
+    "advice": "Plant fig trees in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Figs are nutrient-dense and commonly eaten fresh or dried.",
+    "other_information": "Cultivated in Mediterranean and tropical regions."
+  },
+  {
+    "name": "foxgloves",
+    "description": "Foxgloves are biennial plants known for their tall spikes of tubular flowers.",
+    "advice": "Plant foxgloves in well-draining soil and provide partial shade.",
+    "poison": true,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Foxgloves are poisonous but also valued for their ornamental beauty.",
+    "other_information": "Native to Europe, Asia, and North America."
+  },
+  {
+    "name": "gardenias",
+    "description": "Gardenias are flowering shrubs known for their fragrant and white blooms.",
+    "advice": "Plant gardenias in well-draining soil and provide acidic conditions.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Gardenias add elegance and fragrance to gardens and indoor spaces.",
+    "other_information": "Native to tropical and subtropical regions."
+  },
+  {
+    "name": "garlic",
+    "description": "Garlic is a pungent bulb known for its culinary and medicinal uses.",
+    "advice": "Plant garlic cloves in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Garlic is used to add flavor to a wide range of dishes and has potential health benefits.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "geraniums",
+    "description": "Geraniums are flowering plants known for their colorful and aromatic blooms.",
+    "advice": "Plant geraniums in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Geraniums are popular in gardens and containers and have various cultivars.",
+    "other_information": "Native to various regions around the world."
+  },
+  {
+    "name": "gladiolus",
+    "description": "Gladiolus are flowering plants known for their tall spikes of vibrant blooms.",
+    "advice": "Plant gladiolus corms in well-draining soil and provide support for their height.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Gladiolus are popular in cut flower arrangements and add vertical interest.",
+    "other_information": "Native to sub-Saharan Africa."
+  },
+  {
+    "name": "hardyhibiscuses",
+    "description": "Hardy hibiscuses are flowering shrubs known for their large and showy blooms.",
+    "advice": "Plant hardy hibiscuses in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Hardy hibiscuses add a tropical feel to gardens and attract pollinators.",
+    "other_information": "Native to temperate and subtropical regions."
+  },
+  {
+    "name": "heavenly-bamboos",
+    "description": "Heavenly bamboos are shrubs known for their bamboo-like appearance and colorful foliage.",
+    "advice": "Plant heavenly bamboos in well-draining soil and provide partial shade.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Heavenly bamboos add texture and color to gardens and are suitable for hedges.",
+    "other_information": "Not true bamboos; native to Asia."
+  },
+  {
+    "name": "hibiscus",
+    "description": "Hibiscus are flowering plants known for their large and vibrant blooms.",
+    "advice": "Plant hibiscus in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Hibiscus add beauty to gardens and are used to make beverages and herbal teas.",
+    "other_information": "Native to tropical and subtropical regions."
+  },
+  {
+    "name": "hostas",
+    "description": "Hostas are perennial plants known for their attractive foliage and shade tolerance.",
+    "advice": "Plant hostas in well-draining soil and provide shade.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Hostas add texture to shade gardens and are available in various leaf shapes.",
+    "other_information": "Native to Asia."
+  },
+  {
+    "name": "hyacinths",
+    "description": "Hyacinths are bulbous plants known for their fragrant and clustered flowers.",
+    "advice": "Plant hyacinth bulbs in well-draining soil and enjoy their spring blooms.",
+    "poison": true,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Hyacinths add color and fragrance to gardens.",
+    "other_information": "Native to the eastern Mediterranean."
+  },
+  {
+    "name": "hydrangeas",
+    "description": "Hydrangeas are flowering shrubs known for their large and diverse flowerheads.",
+    "advice": "Plant hydrangeas in well-draining soil and provide adequate moisture.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Hydrangeas add beauty to gardens and have varieties with color-changing blooms.",
+    "other_information": "Native to Asia and the Americas."
+  },
+  {
+    "name": "ilex",
+    "description": "Ilex, or holly, is a group of plants known for their glossy leaves and red berries.",
+    "advice": "Plant ilex in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Ilex is often used as decorative foliage and for Christmas decorations.",
+    "other_information": "Native to Europe, Asia, and North America."
+  },
+  {
+    "name": "irises",
+    "description": "Irises are flowering plants known for their showy and intricate blooms.",
+    "advice": "Plant irises in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Irises add elegance and color to gardens and have many cultivars.",
+    "other_information": "Native to various regions around the world."
+  },
+  {
+    "name": "jujubes",
+    "description": "Jujubes are fruit-bearing trees known for their sweet and nutritious fruits.",
+    "advice": "Plant jujube trees in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Jujubes are rich in vitamins and minerals and often eaten dried.",
+    "other_information": "Cultivated in Asia and the Middle East."
+  },
+  {
+    "name": "lambsears",
+    "description": "Lamb's ears are ground-covering plants known for their soft and fuzzy leaves.",
+    "advice": "Plant lamb's ears in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Lamb's ears add texture and a unique look to gardens and are drought-tolerant.",
+    "other_information": "Native to the Middle East."
+  },
+  {
+    "name": "leeks",
+    "description": "Leeks are vegetables known for their mild onion flavor and use in cooking.",
+    "advice": "Plant leeks in well-draining soil and provide consistent moisture.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Leeks are used to add flavor to various dishes and have potential health benefits.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "lettuces",
+    "description": "Lettuces are leafy greens known for their tender leaves and use in salads.",
+    "advice": "Plant lettuces in well-draining soil and provide partial shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Lettuces are rich in vitamins and minerals and are a staple in salads.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "liatris",
+    "description": "Liatris is a flowering plant known for its tall spikes of fuzzy blooms.",
+    "advice": "Plant liatris in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Liatris attracts pollinators and adds vertical interest to gardens.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "lilacs",
+    "description": "Lilacs are flowering shrubs known for their fragrant and colorful blooms.",
+    "advice": "Plant lilacs in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Lilacs add beauty and fragrance to gardens and are often associated with spring.",
+    "other_information": "Native to Europe and Asia."
+  },
+  {
+    "name": "lilies",
+    "description": "Lilies are flowering plants known for their large and often fragrant blooms.",
+    "advice": "Plant lilies in well-draining soil and provide sunlight.",
+    "poison": true,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Lilies add elegance to gardens and are popular in floral arrangements.",
+    "other_information": "Native to temperate regions of the Northern Hemisphere."
+  },
+  {
+    "name": "loniceras",
+    "description": "Loniceras, or honeysuckles, are climbing plants known for their fragrant and tubular flowers.",
+    "advice": "Plant loniceras in well-draining soil and provide support for climbing varieties.",
+    "poison": false,
+    "risky": false,
+    "invasive": true,
+    "benefits": "Honeysuckles attract pollinators and add fragrance to gardens.",
+    "other_information": "Some species are invasive in certain regions."
+  },
+  {
+    "name": "mammillarias",
+    "description": "Mammillarias are cactus plants known for their spherical shape and spines.",
+    "advice": "Grow mammillarias in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Mammillarias are unique and drought-tolerant plants that add interest to succulent gardens.",
+    "other_information": "Native to the Americas."
+  },
+  {
+    "name": "marjoram",
+    "description": "Marjoram is an aromatic herb known for its flavorful leaves and culinary uses.",
+    "advice": "Grow marjoram in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Marjoram adds flavor to various dishes and is used in herbal remedies.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "milkweed",
+    "description": "Milkweed is a group of plants known for their importance to monarch butterflies.",
+    "advice": "Plant milkweed in well-draining soil to support monarch butterfly populations.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Milkweed provides critical habitat for monarch butterflies and is essential for their survival.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "mints",
+    "description": "Mints are aromatic herbs known for their rapid growth and refreshing leaves.",
+    "advice": "Grow mints in well-draining soil and provide partial shade.",
+    "poison": false,
+    "risky": true,
+    "invasive": true,
+    "benefits": "Mints are used in culinary and medicinal applications, but they can be invasive.",
+    "other_information": "Various mint species are cultivated."
+  },
+  {
+    "name": "mockoranges",
+    "description": "Mockoranges are shrubs known for their fragrant white flowers that resemble orange blossoms.",
+    "advice": "Plant mockoranges in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Mockoranges add beauty and fragrance to gardens and are valued for their ornamental qualities.",
+    "other_information": "Native to North America and Asia."
+  },
+  {
+    "name": "morning-glories",
+    "description": "Morning glories are climbing plants known for their colorful and trumpet-shaped blooms.",
+    "advice": "Plant morning glories in well-draining soil and provide support for climbing.",
+    "poison": false,
+    "risky": true,
+    "invasive": true,
+    "benefits": "Morning glories are attractive but can become invasive in certain regions.",
+    "other_information": "Native to Central and South America."
+  },
+  {
+    "name": "ninebarks",
+    "description": "Ninebarks are shrubs known for their peeling bark and attractive foliage.",
+    "advice": "Plant ninebarks in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Ninebarks add texture and color to gardens and are valued for their ornamental features.",
+    "other_information": "Native to North America and Asia."
+  },
+  {
+    "name": "okra",
+    "description": "Okra is a vegetable known for its edible pods and culinary uses.",
+    "advice": "Plant okra in well-draining soil and provide warmth and sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Okra pods are rich in nutrients and are used in various dishes and cuisines.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "oleanders",
+    "description": "Oleanders are shrubs or small trees known for their showy and toxic flowers.",
+    "advice": "Plant oleanders in well-draining soil and provide sunlight.",
+    "poison": true,
+    "risky": true,
+    "invasive": false,
+    "benefits": "Oleanders are ornamental but highly toxic and should be handled with care.",
+    "other_information": "Native to Asia and the Mediterranean."
+  },
+  {
+    "name": "onions",
+    "description": "Onions are vegetables known for their pungent flavor and widespread culinary use.",
+    "advice": "Plant onion sets in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Onions are used as a base ingredient in many dishes and have potential health benefits.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "oregano",
+    "description": "Oregano is an aromatic herb known for its flavorful leaves and culinary uses.",
+    "advice": "Grow oregano in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Oregano adds flavor to a variety of dishes and is used in herbal remedies.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "pachypodiums",
+    "description": "Pachypodiums are succulent plants known for their unique and spiky appearance.",
+    "advice": "Grow pachypodiums in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Pachypodiums are interesting additions to succulent gardens and are drought-tolerant.",
+    "other_information": "Native to Africa and Madagascar."
+  },
+  {
+    "name": "parsley",
+    "description": "Parsley is an aromatic herb known for its curly or flat leaves and culinary uses.",
+    "advice": "Grow parsley in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Parsley is used as a garnish and flavoring in a wide range of dishes.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "parsnips",
+    "description": "Parsnips are root vegetables known for their sweet and nutty flavor.",
+    "advice": "Plant parsnips in well-draining soil and provide consistent moisture.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Parsnips are rich in nutrients and used in various culinary dishes.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "peaches",
+    "description": "Peaches are fruit-bearing trees known for their juicy and sweet fruits.",
+    "advice": "Plant peach trees in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Peaches are a popular summer fruit enjoyed fresh, in desserts, and preserves.",
+    "other_information": "Cultivated in temperate regions."
+  },
+  {
+    "name": "pears",
+    "description": "Pears are fruit-bearing trees known for their delicious and versatile fruits.",
+    "advice": "Plant pear trees in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Pears are rich in dietary fiber and are enjoyed fresh, in cooking, and preserves.",
+    "other_information": "Cultivated in temperate regions."
+  },
+  {
+    "name": "peas",
+    "description": "Peas are legume plants known for their edible pods and round seeds.",
+    "advice": "Plant pea seeds in well-draining soil and provide support for climbing varieties.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Peas are rich in protein and nutrients and are used in various culinary dishes.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "penstemon",
+    "description": "Penstemon is a flowering plant known for its tubular and often brightly colored blooms.",
+    "advice": "Plant penstemon in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Penstemon adds color to gardens and is attractive to pollinators.",
+    "other_information": "Native to North and Central America."
+  },
+  {
+    "name": "peonies",
+    "description": "Peonies are flowering plants known for their large and fragrant blooms.",
+    "advice": "Plant peonies in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Peonies are popular in floral arrangements and add charm to gardens.",
+    "other_information": "Native to Asia, Europe, and Western North America."
+  },
+  {
+    "name": "peppers",
+    "description": "Peppers are fruit-bearing plants known for their diverse shapes, colors, and flavors.",
+    "advice": "Plant pepper seedlings in well-draining soil and provide warmth and sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Peppers are rich in vitamins and add spice and flavor to various dishes.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "perovskia",
+    "description": "Perovskia, or Russian sage, is a flowering plant known for its aromatic leaves and spikes of lavender-blue flowers.",
+    "advice": "Plant perovskia in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Perovskia adds texture and color to gardens and is attractive to pollinators.",
+    "other_information": "Native to Central Asia."
+  },
+  {
+    "name": "petunias",
+    "description": "Petunias are flowering plants known for their wide range of colors and trumpet-shaped blooms.",
+    "advice": "Plant petunias in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Petunias are popular in hanging baskets and containers and add vibrant color to gardens.",
+    "other_information": "Native to South America."
+  },
+  {
+    "name": "phlox",
+    "description": "Phlox is a flowering plant known for its fragrant and clustered blooms.",
+    "advice": "Plant phlox in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Phlox adds color and fragrance to gardens and is attractive to butterflies.",
+    "other_information": "Native to North America and some parts of Europe."
+  },
+  {
+    "name": "plumerias",
+    "description": "Plumerias are flowering trees or shrubs known for their fragrant and colorful blooms.",
+    "advice": "Plant plumerias in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Plumerias add a tropical feel to gardens and are used in making leis.",
+    "other_information": "Native to tropical and subtropical regions."
+  },
+  {
+    "name": "plums",
+    "description": "Plums are fruit-bearing trees known for their juicy and sweet fruits.",
+    "advice": "Plant plum trees in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Plums are enjoyed fresh, dried, and in various culinary creations.",
+    "other_information": "Cultivated in temperate regions."
+  },
+  {
+    "name": "poppies",
+    "description": "Poppies are flowering plants known for their colorful and delicate blooms.",
+    "advice": "Plant poppy seeds in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": true,
+    "invasive": false,
+    "benefits": "Poppies add beauty to gardens but can self-sow and spread.",
+    "other_information": "Various poppy species exist around the world."
+  },
+  {
+    "name": "potatoes",
+    "description": "Potatoes are root vegetables known for their starchy tubers and culinary uses.",
+    "advice": "Plant potato tubers in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Potatoes are a staple food and used in various dishes and cuisines.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "radishes",
+    "description": "Radishes are root vegetables known for their crisp and peppery-flavored edible roots.",
+    "advice": "Plant radish seeds in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Radishes are low in calories and often enjoyed fresh in salads.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "rhododendrons",
+    "description": "Rhododendrons are flowering shrubs known for their large and colorful blooms.",
+    "advice": "Plant rhododendrons in well-draining soil and provide partial shade.",
+    "poison": true,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Rhododendrons add beauty to gardens but can be toxic if ingested.",
+    "other_information": "Native to Asia, Europe, and North America."
+  },
+  {
+    "name": "rhubarbs",
+    "description": "Rhubarbs are perennial vegetables known for their tart and edible stalks.",
+    "advice": "Plant rhubarb crowns in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Rhubarbs are used in cooking and baking to add flavor and tartness.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "ribes",
+    "description": "Ribes, or currants, are shrubs known for their small and flavorful berries.",
+    "advice": "Plant ribes in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Ribes berries are used in jams, jellies, and desserts.",
+    "other_information": "Native to North America and Europe."
+  },
+  {
+    "name": "roseofsharon",
+    "description": "Rose of Sharon is a flowering shrub known for its hibiscus-like blooms.",
+    "advice": "Plant rose of sharon in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Rose of Sharon adds beauty to gardens and attracts pollinators.",
+    "other_information": "Native to Asia."
+  },
+  {
+    "name": "roses",
+    "description": "Roses are flowering shrubs known for their iconic and fragrant blooms.",
+    "advice": "Plant roses in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Roses are popular in gardens and symbolize love and beauty.",
+    "other_information": "Cultivated in various regions around the world."
+  },
+  {
+    "name": "rubus",
+    "description": "Rubus, or brambles, are plants known for their aggregate fruits, including blackberries and raspberries.",
+    "advice": "Plant rubus in well-draining soil and provide support for climbing varieties.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Rubus fruits are enjoyed fresh, in desserts, and preserves.",
+    "other_information": "Native to Asia, Europe, and North America."
+  },
+  {
+    "name": "sage",
+    "description": "Sage is an aromatic herb known for its flavorful leaves and various culinary and medicinal uses.",
+    "advice": "Grow sage in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Sage adds flavor to a wide range of dishes and is used for its potential health benefits.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "salvias",
+    "description": "Salvias are flowering plants known for their diverse colors and aromatic foliage.",
+    "advice": "Plant salvias in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Salvias attract pollinators and add color and fragrance to gardens.",
+    "other_information": "Native to Central and South America, as well as other regions."
+  },
+  {
+    "name": "sedums",
+    "description": "Sedums, or stonecrops, are succulent plants known for their fleshy leaves and drought tolerance.",
+    "advice": "Grow sedums in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Sedums are used in rock gardens and are low-maintenance.",
+    "other_information": "Native to many regions around the world."
+  },
+  {
+    "name": "sempervivum",
+    "description": "Sempervivum, or hens and chicks, are succulent plants known for their rosette-like growth.",
+    "advice": "Grow sempervivum in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Sempervivum are unique and add texture to succulent gardens.",
+    "other_information": "Native to Europe and North Africa."
+  },
+  {
+    "name": "shastadaisies",
+    "description": "Shasta daisies are flowering plants known for their classic daisy appearance and white petals.",
+    "advice": "Plant shasta daisies in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Shasta daisies add a touch of charm to gardens and attract pollinators.",
+    "other_information": "Hybrid plants derived from various daisy species."
+  },
+  {
+    "name": "smoketrees",
+    "description": "Smoketrees are ornamental shrubs known for their unique and smoky-looking flower clusters.",
+    "advice": "Plant smoketrees in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Smoketrees add visual interest to gardens and are prized for their unusual blooms.",
+    "other_information": "Native to North America, Europe, and Asia."
+  },
+  {
+    "name": "spinach",
+    "description": "Spinach is a leafy green vegetable known for its nutritious and tender leaves.",
+    "advice": "Plant spinach seeds in well-draining soil and provide partial shade in hot climates.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Spinach is rich in vitamins and minerals and is used in salads and cooking.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "spiraeas",
+    "description": "Spiraeas are shrubs known for their cascading clusters of flowers and attractive foliage.",
+    "advice": "Plant spiraeas in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Spiraeas add beauty to gardens and are often used in landscaping.",
+    "other_information": "Native to Asia, Europe, and North America."
+  },
+  {
+    "name": "strawberries",
+    "description": "Strawberries are fruit-bearing plants known for their sweet and juicy red berries.",
+    "advice": "Plant strawberry plants in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Strawberries are popular for fresh consumption, desserts, and preserves.",
+    "other_information": "Cultivated in temperate regions and various hybrids exist."
+  },
+  {
+    "name": "sunroots",
+    "description": "Sunroots, or Jerusalem artichokes, are sunflower-like plants grown for their edible tubers.",
+    "advice": "Plant sunroot tubers in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Sunroot tubers are nutritious and used in cooking and as a potato substitute.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "sweetpotatoes",
+    "description": "Sweet potatoes are root vegetables known for their sweet and starchy tubers.",
+    "advice": "Plant sweet potato slips in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Sweet potatoes are a nutritious food source and are used in various culinary dishes.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "swisschard",
+    "description": "Swiss chard is a leafy green vegetable known for its colorful stems and nutritious leaves.",
+    "advice": "Plant swiss chard seeds in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Swiss chard is rich in vitamins and minerals and is used in cooking.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "tarragon",
+    "description": "Tarragon is an aromatic herb known for its flavorful leaves and culinary uses.",
+    "advice": "Grow tarragon in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Tarragon adds a distinct flavor to dishes and is used in culinary creations.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "thyme",
+    "description": "Thyme is an aromatic herb known for its small leaves and versatile culinary uses.",
+    "advice": "Grow thyme in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Thyme adds flavor to a variety of dishes and is used in herbal remedies.",
+    "other_information": "Cultivated for culinary and medicinal use."
+  },
+  {
+    "name": "tickseeds",
+    "description": "Tickseeds are flowering plants known for their bright and daisy-like blooms.",
+    "advice": "Plant tickseeds in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Tickseeds add cheerful color to gardens and attract pollinators.",
+    "other_information": "Native to North America."
+  },
+  {
+    "name": "tomatoes",
+    "description": "Tomatoes are fruit-bearing plants known for their juicy and versatile fruits.",
+    "advice": "Plant tomato seedlings in well-draining soil and provide warmth and sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Tomatoes are used in a wide range of culinary dishes and are rich in vitamins.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "tulips",
+    "description": "Tulips are flowering plants known for their iconic cup-shaped blooms.",
+    "advice": "Plant tulip bulbs in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Tulips add vibrant color to gardens and are associated with spring.",
+    "other_information": "Native to Eurasia."
+  },
+  {
+    "name": "turnips",
+    "description": "Turnips are root vegetables known for their edible roots and greens.",
+    "advice": "Plant turnip seeds in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Turnips and their greens are used in cooking and are nutritious.",
+    "other_information": "Cultivated for culinary use."
+  },
+  {
+    "name": "veronicas",
+    "description": "Veronicas are flowering plants known for their spiky clusters of blooms.",
+    "advice": "Plant veronicas in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Veronicas add vertical interest to gardens and attract pollinators.",
+    "other_information": "Native to Europe, Asia, and North America."
+  },
+  {
+    "name": "viburnums",
+    "description": "Viburnums are shrubs or small trees known for their fragrant and clustered blooms.",
+    "advice": "Plant viburnums in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Viburnums add beauty and fragrance to gardens and are valued for their ornamental features.",
+    "other_information": "Native to North America, Europe, and Asia."
+  },
+  {
+    "name": "vitis",
+    "description": "Vitis, or grapes, are fruit-bearing vines known for their sweet and juicy fruits.",
+    "advice": "Plant grapevines in well-draining soil and provide support for climbing.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Grapes are enjoyed fresh and used to make various products, including wine.",
+    "other_information": "Cultivated for culinary and beverage use."
+  },
+  {
+    "name": "wisterias",
+    "description": "Wisterias are climbing plants known for their cascading clusters of fragrant blooms.",
+    "advice": "Plant wisterias in well-draining soil and provide sturdy support for climbing.",
+    "poison": false,
+    "risky": false,
+    "invasive": true,
+    "benefits": "Wisterias add beauty and fragrance to gardens but can become invasive in certain regions.",
+    "other_information": "Native to East Asia and the United States."
+  },
+  {
+    "name": "yarrows",
+    "description": "Yarrows are flowering plants known for their feathery and aromatic foliage and flat-topped clusters of blooms.",
+    "advice": "Plant yarrows in well-draining soil and provide sunlight.",
+    "poison": false,
+    "risky": false,
+    "invasive": false,
+    "benefits": "Yarrows have medicinal uses and attract pollinators to gardens.",
+    "other_information": "Native to Asia, Europe, and North America."
+  }
+]
+
