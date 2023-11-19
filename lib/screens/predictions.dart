@@ -51,6 +51,11 @@ class PredictionPageState extends State<PredictionPage> {
     objectDetection = ImageClassification(widget.model, widget.labels);
   }
 
+  void resetObjectDetection() {
+    objectDetection?.release(); // Release resources of the existing objectDetection instance
+    objectDetection = ImageClassification(widget.model, widget.labels); // Create a new instance
+  }
+
   //Create the function to load the camera
   loadCamera() async {
     //Make sure cameras exist
@@ -96,7 +101,7 @@ class PredictionPageState extends State<PredictionPage> {
             ),
           ),
         );
-        objectDetection!.release();
+        resetObjectDetection();
       }
     } catch (e) {
       print(e);
@@ -165,7 +170,7 @@ class PredictionPageState extends State<PredictionPage> {
                               ),
                             ),
                           );
-                          objectDetection!.release();
+                          resetObjectDetection();
                         });
                       } else {
                         setState(() {
