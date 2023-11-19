@@ -43,6 +43,11 @@ class PlantPredictionPageState extends State<PlantPredictionPage> {
 
   }
 
+  void resetObjectDetection() {
+    objectDetection?.release(); // Release resources of the existing objectDetection instance
+    objectDetection = ImageClassification(widget.model, widget.labels); // Create a new instance
+  }
+
   //Create the function to load the camera
   loadCamera() async {
     //Make sure cameras exist
@@ -89,7 +94,7 @@ class PlantPredictionPageState extends State<PlantPredictionPage> {
             ),
           ),
         );
-        objectDetection!.release();
+        resetObjectDetection();
       }
     } catch (e) {
       print(e);
@@ -159,7 +164,7 @@ class PlantPredictionPageState extends State<PlantPredictionPage> {
                               ),
                             ),
                           );
-                          objectDetection!.release();
+                          resetObjectDetection();
                         });
                       } else {
                         setState(() {
